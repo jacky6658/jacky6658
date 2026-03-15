@@ -186,7 +186,7 @@ const step1ne = {
 
 [![Website](https://img.shields.io/badge/step1ne.com-59bbe5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://step1ne.com)
 [![Portfolio](https://img.shields.io/badge/AI_Portfolio-FF6B35?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://jackyprofile.aijob.com.tw/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/step1ne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-chen-41736a2b9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 <br>

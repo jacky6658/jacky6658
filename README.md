@@ -6,16 +6,9 @@
 <!-- TYPING EFFECT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=59BBE5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%AF+%E7%8D%B5%E9%A0%AD%E9%A1%A7%E5%95%8F+%C3%97+AI+%E8%87%AA%E5%8B%95%E5%8C%96%E9%A1%A7%E5%95%8F;%F0%9F%94%A7+Automating+Recruitment+Workflows+with+AI;%F0%9F%9A%80+Non-Engineer+%7C+AI-Native+Builder)](https://step1ne.com)
 
-<!-- DYNAMIC SVG CARD -->
-<a href="https://step1ne.com">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=luminance&text1=JACKY%20CHEN&text2=AI%20Automation%20Consultant%20%40%20STEP1NE&width=600&height=120">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=JACKY%20CHEN&text2=AI%20Automation%20Consultant%20%40%20STEP1NE&width=600&height=120" alt="Jacky Chen Card" />
-</picture>
-</a>
-
 <br>
 
+<!-- TOP BADGES -->
 ![Visitors](https://komarev.com/ghpvc/?username=jacky6658&color=59bbe5&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![Website](https://img.shields.io/badge/🌐_step1ne.com-LIVE-59bbe5?style=for-the-badge)](https://step1ne.com)
@@ -26,11 +19,58 @@
 
 ---
 
+<!-- PORTFOLIO SHOWCASE -->
+<div align="center">
+
+## 💼 AI 自動化顧問作品集
+
+<a href="https://jackyprofile.aijob.com.tw/">
+<img src="https://img.shields.io/badge/🚀_查看完整作品集-jackyprofile.aijob.com.tw-59bbe5?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://jackyprofile.aijob.com.tw/">
+<img src="https://img.shields.io/badge/AI_自動化-顧問服務-59bbe5?style=flat-square&labelColor=0d1117" width="200" />
+<br><br>
+<b>🤖 AI 顧問服務</b>
+<br>
+<sub>為企業打造 AI 驅動的<br>獵頭自動化工作流</sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://step1ne.com">
+<img src="https://img.shields.io/badge/STEP1NE-獵才平台-59bbe5?style=flat-square&labelColor=0d1117" width="200" />
+<br><br>
+<b>🎯 STEP1NE 獵才平台</b>
+<br>
+<sub>獵才好選擇 求職好夥伴<br>AI 驅動的人才媒合</sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/jacky-chen-41736a2b9/">
+<img src="https://img.shields.io/badge/Jacky_Chen-LinkedIn-0A66C2?style=flat-square&labelColor=0d1117" width="200" />
+<br><br>
+<b>🤝 商業合作</b>
+<br>
+<sub>歡迎 LinkedIn 聯繫<br>探討 AI 自動化合作</sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## `$ whoami`
 
 ```js
 const step1ne = {
-    name: "Jacky",
+    name: "Jacky Chen",
     brand: "STEP1NE",
     role: "獵頭顧問 × AI 自動化顧問",
     company: "step1ne.com — 獵才好選擇 求職好夥伴",
@@ -74,6 +114,12 @@ const step1ne = {
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/📋_查看更多服務細節-jackyprofile.aijob.com.tw-FF6B35?style=for-the-badge&labelColor=0d1117)](https://jackyprofile.aijob.com.tw/)
+
+</div>
 
 ---
 
@@ -234,7 +280,7 @@ const step1ne = {
 <div align="center">
 
 [![Website](https://img.shields.io/badge/step1ne.com-59bbe5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://step1ne.com)
-[![Portfolio](https://img.shields.io/badge/AI_Portfolio-FF6B35?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://jackyprofile.aijob.com.tw/)
+[![Portfolio](https://img.shields.io/badge/AI_作品集-FF6B35?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://jackyprofile.aijob.com.tw/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-chen-41736a2b9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 

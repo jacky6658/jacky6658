@@ -1,10 +1,26 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
+<!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4f,100:59bbe5&height=220&section=header&text=STEP1NE&fontSize=80&fontColor=59bbe5&fontAlignY=35&desc=%E7%8D%B5%E6%89%8D%E5%A5%BD%E9%81%B8%E6%93%87%20%E6%B1%82%E8%81%B7%E5%A5%BD%E5%A4%A5%E4%BC%B4&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING EFFECT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=59BBE5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%AF+%E7%8D%B5%E9%A0%AD%E9%A1%A7%E5%95%8F+%C3%97+AI+%E8%87%AA%E5%8B%95%E5%8C%96%E9%A1%A7%E5%95%8F;%F0%9F%94%A7+Automating+Recruitment+Workflows+with+AI;%F0%9F%9A%80+Non-Engineer+%7C+AI-Native+Builder)](https://step1ne.com)
+
+<!-- DYNAMIC SVG CARD -->
+<a href="https://step1ne.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=luminance&text1=JACKY%20CHEN&text2=AI%20Automation%20Consultant%20%40%20STEP1NE&width=600&height=120">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=JACKY%20CHEN&text2=AI%20Automation%20Consultant%20%40%20STEP1NE&width=600&height=120" alt="Jacky Chen Card" />
+</picture>
+</a>
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=jacky6658&color=59bbe5&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![Website](https://img.shields.io/badge/🌐_step1ne.com-LIVE-59bbe5?style=for-the-badge)](https://step1ne.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-chen-41736a2b9/)
 
 </div>
 
@@ -88,6 +104,54 @@ const step1ne = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacky6658/jacky6658/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacky6658/jacky6658/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jacky6658/jacky6658/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jacky6658&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=59bbe5&icon_color=59bbe5&text_color=c9d1d9&hide_border=false" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jacky6658&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=59bbe5&fire=59bbe5&currStreakLabel=59bbe5" />
+
+</div>
+
+<br>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jacky6658&bg_color=0d1117&color=59bbe5&line=59bbe5&point=ffffff&area_color=59bbe5&area=true&hide_border=true)](https://github.com/jacky6658)
+
+</div>
+
+---
+
+## 🏙️ 3D Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3D Contribution" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -118,21 +182,6 @@ const step1ne = {
 | 🌐 **step1ne.com** | STEP1NE 官方網站 — 獵才媒合平台 | `Nuxt.js` `Vue.js` |
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jacky6658&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=59bbe5&icon_color=59bbe5&text_color=c9d1d9&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jacky6658&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=59bbe5&fire=59bbe5&currStreakLabel=59bbe5" />
-
-</div>
-
-<div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacky6658&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=59bbe5&text_color=c9d1d9" />
-</div>
 
 ---
 
@@ -201,12 +250,11 @@ const step1ne = {
 
 ---
 
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4f,100:59bbe5&height=120&section=footer" />
 
 <sub>⚡ Built with AI, Designed with Purpose</sub>
 <br>
 <sub>💡 *Non-engineer who builds like one — powered by AI*</sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jacky6658&color=59bbe5&style=flat-square&label=Profile+Views)
 
 </div>

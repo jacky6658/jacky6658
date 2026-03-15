@@ -123,6 +123,16 @@ const step1ne = {
 
 ---
 
+## 🎯 Skill Proficiency
+
+<div align="center">
+
+<img src="./skills.svg" width="100%" alt="Skills" />
+
+</div>
+
+---
+
 ## 🛠️ Tech & Tools
 
 <div align="center">
@@ -145,6 +155,16 @@ const step1ne = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jacky6658&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/jacky6658)
 
 </div>
 
@@ -193,6 +213,17 @@ const step1ne = {
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
   <img alt="3D Contribution" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
+
+</div>
+
+---
+
+## 📈 Advanced Metrics
+
+<div align="center">
+
+<img width="49%" src="./metrics/general.svg" alt="General Metrics" />
+<img width="49%" src="./metrics/achievements.svg" alt="Achievements" />
 
 </div>
 
